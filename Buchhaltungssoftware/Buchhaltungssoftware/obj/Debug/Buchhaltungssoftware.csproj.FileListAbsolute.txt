@@ -1,0 +1,8 @@
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\bin\Debug\Buchhaltungssoftware.exe.config
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\bin\Debug\Buchhaltungssoftware.exe
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\bin\Debug\Buchhaltungssoftware.pdb
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\obj\Debug\Buchhaltungssoftware.csproj.AssemblyReference.cache
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\obj\Debug\Buchhaltungssoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\obj\Debug\Buchhaltungssoftware.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\obj\Debug\Buchhaltungssoftware.exe
+C:\Users\Anwender\source\repos\Buchhaltungssoftware\Buchhaltungssoftware\obj\Debug\Buchhaltungssoftware.pdb
